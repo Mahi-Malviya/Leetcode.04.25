@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,8 +53,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
