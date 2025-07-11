@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/0735-asteroid-collision) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Mahi-Malviya/Leetcode.04.25/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
